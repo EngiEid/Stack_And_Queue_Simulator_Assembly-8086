@@ -1,4 +1,4 @@
-# 📚Stack & 📬Queue Simulator – Assembly x86  
+# 📚Stack & 📬Queue Simulator – Assembly x86   
 A **Stack & Queue simulator** implemented in **8086 Assembly**.  
 The program provides an interactive console interface allowing the user to perform fundamental operations on Stack and Queue data structures.
 
